@@ -5,7 +5,7 @@
 + I'm learning Python and want to work remotely.
 
 + 🚀 Skills
-- Python (beginner)
+- Python 
 - Postgresql
 - Git & GitHub
 
