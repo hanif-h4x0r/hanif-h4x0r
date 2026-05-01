@@ -4,15 +4,16 @@
 
 + I'm learning Python and want to work remotely.
 
-## 🚀 Skills
++ 🚀 Skills
 - Python (beginner)
+- Postgresql
 - Git & GitHub
 
-## 📂 Projects
++ 📂 Projects
 - Website
 - Calculator
 - Price Discount Calculator
 
-## 📫 Contact
++ 📫 Contact
 - Email: hanifabdurrahmanarifai@gmail.com
 ```
